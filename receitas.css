@@ -1,0 +1,16 @@
+.cartoes {
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 10%;
+    align-items: left;
+}
+
+.card-title{
+    margin-top: 10px;
+}
+
+.card-body>li{
+    margin-left: 30%;
+    overflow-y: auto;
+    text-align: left;
+}
